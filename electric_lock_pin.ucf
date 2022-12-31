@@ -1,0 +1,7 @@
+net "clk_in" loc = p55;
+net "i" loc = p56;
+net "o" loc = p88;
+#net "led[0]" loc = p84;
+#net "led[1]" loc = p83;
+#net "led[2]" loc = p82;
+#net "led[3]" loc = p81; 
